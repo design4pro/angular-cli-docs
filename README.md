@@ -4,6 +4,8 @@ description: Missing command line interface documentation for Angular
 
 # Angular CLI
 
+The official documentation for the Angular CLI is located in this repo's [wiki](https://github.com/angular/angular-cli/wiki).
+
 ### What Is Angular CLI?
 
 Angular CLI is a command-line interface \(CLI\) to automate your development workflow. It allows you to:
