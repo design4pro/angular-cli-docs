@@ -13,14 +13,22 @@ The Angular CLI is a tool to initialize, develop, scaffold and maintain [Angular
 To install the Angular CLI:
 
 ```bash
-npm install -g @angular/cli
+npm install -g @angular/cli@latest
 ```
 
 or
 
 ```bash
-yarn global add @angular/cli
+yarn global add @angular/cli@latest
 ```
+
+Then make sure that it’s installed on your system and prints out version 6.0 or greater.
+
+```bash
+ng --version
+```
+
+![](.gitbook/assets/ng-version%20%281%29.png)
 
 Generating and serving an Angular project via a development server [Create](commands/ng-new.md) and [run](commands/ng-serve.md) a new project:
 
