@@ -4,6 +4,6 @@
 
 ## Commands
 
-* [ng new](commands-1/ng-new.md)
-* [ng serve](commands-1/ng-serve.md)
+* [new](commands-1/ng-new.md)
+* [serve](commands-1/ng-serve.md)
 
