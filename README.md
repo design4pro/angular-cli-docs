@@ -22,7 +22,7 @@ or
 yarn global add @angular/cli
 ```
 
-Generating and serving an Angular project via a development server [Create](commands-1/ng-new.md) and [run](commands-1/ng-serve.md) a new project:
+Generating and serving an Angular project via a development server [Create](commands/ng-new.md) and [run](commands/ng-serve.md) a new project:
 
 ```bash
 ng new my-project
