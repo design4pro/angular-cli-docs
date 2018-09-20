@@ -6,4 +6,6 @@
 
 * [new](commands/ng-new.md)
 * [serve](commands/ng-serve.md)
+* [generate](commands/generate.md)
+* [generate application](commands/generate-application.md)
 

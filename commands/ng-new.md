@@ -1,5 +1,5 @@
 ---
-description: Creating a New Angular Application
+description: Creating a New Angular Application.
 ---
 
 # new
