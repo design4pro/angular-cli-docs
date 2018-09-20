@@ -100,7 +100,7 @@ You can find all possible blueprints in the table below:
 
 | Scaffold | Usage |
 | :--- | :--- |
-| Application | `ng g application my-new-app` |
+| [_Application_](commands/generate-application.md)\_\_ | `ng g application my-new-app` |
 | Component | `ng g component my-new-component` |
 | Directive | `ng g directive my-new-directive` |
 | Pipe | `ng g pipe my-new-pipe` |
