@@ -79,9 +79,21 @@ Help.
 
 ### Example
 
+The first thing you’ll need to do is generate a new app.
+
 ```bash
 ng new my-app --prefix app --style scss --skip-tests --verbose
 ```
 
-### 
+This command will create your app and install the dependencies.
+
+![](../.gitbook/assets/ng-new-my-app.png)
+
+The CLI configuration options can be found in the `angular.json` file in the root of the project. It is possible to have multiple apps and libraries in a single CLI workspace. If necessary, you can edit values in this file to change the behavior of the CLI, but that’s usually only required for more advanced use cases.
+
+{% hint style="info" %}
+Schema structure for `angular.json` file can be find in GitHub angular-cli repository in [`schema.json`](https://github.com/angular/angular-cli/blob/master/packages/angular/cli/lib/config/schema.json) file.
+{% endhint %}
+
+Go to [_next command_](ng-serve.md) to make sure the app works in the browser.
 
