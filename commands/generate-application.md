@@ -4,15 +4,17 @@ description: Create an Angular application.
 
 # generate application
 
-```bash
-ng generate application <name> [options]
-```
+### Overview
 
-or
+`ng generate application <schematic> <name> [options]` or `ng g app <schematic> <name> [options]` generates application.
 
-```text
-ng g app <name> [options]
-```
+### Arguments
+
+`schematic` \(optional\)  
+The schematic or collection:schematic to generate.
+
+`name` \(required\)  
+The name of the application.
 
 ### Options
 
@@ -45,4 +47,10 @@ The file extension to be used for style files.
 
 `--view-encapsulation`   
 Specifies the view encapsulation strategy.
+
+### Example
+
+```bash
+ng generate application my-app
+```
 

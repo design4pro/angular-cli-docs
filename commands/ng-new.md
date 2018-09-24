@@ -6,7 +6,7 @@ description: Creating a New Angular Application.
 
 ### Overview
 
-`ng new [name]` creates a new angular application.
+`ng new <name> [options]` creates a new angular application.
 
 Default applications are created in a directory of the same name, with an initialized Angular application.
 

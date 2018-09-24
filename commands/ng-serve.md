@@ -8,10 +8,6 @@ description: Builds the application and starts a web server.
 
 `ng serve` builds the application and starts a web server.
 
-```text
-ng serve [project]
-```
-
 ### Options
 
 `--aot` \(default `true`\)  

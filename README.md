@@ -1,10 +1,10 @@
 ---
-description: Missing command line interface documentation for Angular
+description: Missing command line interface documentation for Angular.
 ---
 
 # Angular CLI
 
-The official documentation for the Angular CLI is located in this repo's [wiki](https://github.com/angular/angular-cli/wiki).
+The official documentation for the Angular CLI is located in this repo's [_wiki_](https://github.com/angular/angular-cli/wiki).
 
 ### What Is Angular CLI?
 
